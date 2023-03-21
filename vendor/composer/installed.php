@@ -1,13 +1,13 @@
 <?php return array(
     'root' => array(
         'name' => 'drupal/legacy-project',
-        'pretty_version' => '10.0.5',
-        'version' => '10.0.5.0',
-        'reference' => '803af614e7dc903f48d274009dd8dacd25b76cd7',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'b959e32c2e7d63294b3abf9861e458801b1c48b5',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'dev' => false,
+        'dev' => true,
     ),
     'versions' => array(
         'asm89/stack-cors' => array(
@@ -245,9 +245,9 @@
             ),
         ),
         'drupal/legacy-project' => array(
-            'pretty_version' => '10.0.5',
-            'version' => '10.0.5.0',
-            'reference' => '803af614e7dc903f48d274009dd8dacd25b76cd7',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b959e32c2e7d63294b3abf9861e458801b1c48b5',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
